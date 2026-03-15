@@ -17,9 +17,13 @@ Ensure ```node``` and ```python``` are installed on your system.
 
 In your command prompt do the following:
 ```
+npm i
 cd server
 python -m pip install -r requirements.txt
 cd..
+cd frontend
+npm i
+cd ..
 npm run dist
 ```
 
@@ -27,8 +31,12 @@ npm run dist
 
 In your command prompt do the following:
 ```
+npm i
 cd server
 python3 -m pip install -r requirements.txt
+cd ..
+cd frontend
+npm i
 cd ..
 npm run dist
 ```
