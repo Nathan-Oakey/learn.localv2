@@ -6,6 +6,9 @@ This program provides a local database for classrooms, providing an alternative 
 
 Team Members: Alexander Matheson, Nathan Oakey, Jonah Bucci, Brenden Cosman
 
+## Admin Login
+
+Default is username -> admin, password -> admin
 
 ## Prerequisites
 
